@@ -171,10 +171,7 @@ If you are using the default values from the *config/application.yml* file, you 
 You'll see a navigation link for Admin. Clicking the link will display a page with a list of users at
 "http://localhost:3000/users":http://localhost:3000/users.
 
-If you've added a second user, (unless you've changed it) use
-
-* email: user2@example.com
-* password: changeme
+!http://i1286.photobucket.com/albums/a610/miguel92928/users_image_zps56mykf3g.png!
 
 The second user will not see the Admin navigation link and will not be able to access the page at
 "http://localhost:3000/users":http://localhost:3000/users.
